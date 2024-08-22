@@ -7,6 +7,6 @@ https://playrubyx.io/
 Description: 
 This RubyX miner allows you to mine $Ruby from your wallet.
 
-Candy Machine ID: G31BPvePixE8hVgnTG1Myr2obANnd2paYsKj1HpEnBEx
-Candy Guard ID: FhkV8pWwk3tDEch53M98QxVioXyQuWYh2HYm51exTdFH
-LUT Address: 3Grhc52cLR67jCq64jBhVErkzxoAnauKEecbQJa1SLWg
+Candy Machine ID: G31BPvePixE8hVgnTG1Myr2obANnd2paYsKj1HpEnBEx<br/>
+Candy Guard ID: FhkV8pWwk3tDEch53M98QxVioXyQuWYh2HYm51exTdFH<br/>
+LUT Address: 3Grhc52cLR67jCq64jBhVErkzxoAnauKEecbQJa1SLWg<br/>
