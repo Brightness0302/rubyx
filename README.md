@@ -3,3 +3,6 @@
 
 Description: 
 This RubyX miner allows you to mine $Ruby from your wallet.
+
+Website: 
+https://playrubyx.io/
